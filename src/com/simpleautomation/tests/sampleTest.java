@@ -17,6 +17,7 @@ public class sampleTest extends FrameworkBase{
 	
 	ExcelUtility testData = new ExcelUtility(Globals.excelFilePath, "Sheet1", "xls");
 	Map<String,String> map;
+	//test
 	
 	public sampleTest(){
 	super();
